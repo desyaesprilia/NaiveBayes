@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="RB_fpencetus_tidak" type="id" />
+    <item name="RB_usia_tidak" type="id" />
+    <item name="RB_demam_tidak" type="id" />
+    <item name="RB_riwayat_tidak" type="id" />
+    <item name="RB_edema_tidak" type="id" />
+    <item name="RB_kejang_tidak" type="id" />
+    <item name="RB_defisit_tidak" type="id" />
+    <item name="RB_waktu_tidak" type="id" />
+    <item name="RB_progresif_tidak" type="id" />
+    <item name="RB_skalaNyeri_tidak" type="id" />
+    <item name="RB_skalaNyeri_sedang" type="id" />
+    <item name="RB_skalaNyeri_berat" type="id" />
+    <item name="RB_muntah_tidak" type="id" />
+    <item name="RB_jk_tidak" type="id" />
+    <item name="RB_jk_p" type="id" />
+    <item name="RB_lokasi_b" type="id" />
+    <item name="RB_mual_tidak" type="id" />
+    <item name="RB_nkprogresif_tidak" type="id" />
+    <item name="RB_durasi_tidak" type="id" />
+    <item name="RB_OnsetMendadak_tidak" type="id" />
+    <item name="RB_dibor" type="id" />
+    <item name="RB_tekan" type="id" />
+    <item name="RB_lokasi_bilateral" type="id" />
+    <item name="RB_mhBerair_tidak" type="id" />
+</resources>

@@ -1,0 +1,161 @@
+Nama;Demam;Defisit neurologi (perot, mual, muntah, pelo, lemah separuh tubuh, penurunan kesadaran);Nyeri kepala progresif;Kejang;Edemapapil;Faktor pencetus (batuk, mengejan);Onset (mendadak);Riwayat penyakit (HIV, cancer, tumor, TB Paru);Mual muntah;Umur;DiagnosaPertama
+Wasis Agung Prabowo;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Mujinah;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Primer
+Taufik Bahtiar;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Yuli Sugiyarto;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Indah Rizki Amalia;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Erna Yustin Wally;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Tugiati;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Zainiyah;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Oktafia malango;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Hidrotul Mardiyah;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Taufik Bahtiar;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Dika Fadilah;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Moch Fatchul Huda;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Ngatiah;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Rini Widayati;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Ya;Primer
+Kiki Kristiani;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Ida Julaika;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Imroatu Sholihah;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+NI Nyoman Marhaelin;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Primer
+Mudrik;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Dewi Mari;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Irwan Soleh;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Ya;Primer
+Farida;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Hasniar Ika Yuniawati;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Saini;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Lilik Masluha;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Noer Endah;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Eni Apriani;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Susilowati;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Primer
+Agus Dwi Kurniawan;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+moch Soleh Nurarifin;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Nikmatus Zuhriah;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Siti Fatimah;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Erna Yustin Wally;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Indri Prwanti;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Siti Istiqomah;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Supriyanto;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+BAGUS AFANDY PUTRA;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+MOH KHANFANI;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+MOHAMMAD HASAN HANAFI;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Meisi;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Fatilah;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Vivi Dwi Lestari;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Bayu Setiawan;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Yuliatin;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Viriyal;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Muvi Firdaus;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Krisfa Larum;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Etji Fitriana;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Uda Widjaksono;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Aditya Kartika;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Siti Hotijah;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Tris Alvianda;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Paramita;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Aminah;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Nurul Rini Intan Fandini;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Puji Rahayu;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Yahya;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Rizal Efendi;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Suripto;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Putri Tulistiowati;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Darmi;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Linda Atika Dewi;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Semuel Pampang Langi;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Wawan;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Lukmawati;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Adinda Puteri;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Fadia Laila;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+RR Sri Wahyuningsih;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Iin Nur Hindriyawati;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Amanah;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Bima;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Mahani Fadlul;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Primer
+Sri Wahyuningsih;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Husain;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Primer
+Sularih;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Seneti;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Moch Jaya Wijaya;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Akhmad Rifanie;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Primer
+Nadia Cikyta;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Primer
+Masmuah;Ya;Ya;Tidak;Tidak;Tidak;Ya;Tidak;Tidak;Tidak;Ya;Sekunder
+Seger;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Tidak;Ya;Sekunder
+Astutik;Ya;Ya;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Sekunder
+Ong Siok Tin;Tidak;Ya;Tidak;Ya;Tidak;Tidak;Ya;Tidak;Tidak;Ya;Sekunder
+Budhi;Ya;Ya;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Sekunder
+MI Suyono;Ya;Ya;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Sekunder
+Mianah;Ya;Ya;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Ya;Sekunder
+Orep;Ya;Ya;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Ya;Sekunder
+Suliyah;Ya;Ya;Ya;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Sekunder
+Aminan;Ya;Ya;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Sekunder
+Rajito;Tidak;Ya;Tidak;Ya;Tidak;Tidak;Ya;Tidak;Tidak;Ya;Sekunder
+Susana;Tidak;Ya;Ya;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Ya;Sekunder
+Sukarji;Tidak;Ya;Tidak;Ya;Tidak;Ya;Ya;Ya;Tidak;Tidak;Sekunder
+Dasila;Tidak;Ya;Ya;Ya;Ya;Tidak;Tidak;Tidak;Ya;Tidak;Sekunder
+Masithoh;Ya;Ya;Tidak;Ya;Tidak;Tidak;Tidak;Ya;Tidak;Ya;Sekunder
+Soinem;Ya;Ya;Tidak;Ya;Tidak;Tidak;Ya;Ya;Ya;Ya;Sekunder
+Namirah;Tidak;Ya;Ya;Ya;Tidak;Tidak;Ya;Tidak;Ya;Ya;Sekunder
+Hariono Wibowo;Tidak;Ya;Ya;Ya;Tidak;Tidak;Tidak;Tidak;YA;Ya;Sekunder
+Santoso;Tidak;Ya;Ya;Ya;Tidak;Tidak;Tidak;Ya;Tidak;Ya;Sekunder
+ABD Jakfar;Tidak;Ya;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Sekunder
+Retno Yuliati;Tidak;Ya;Tidak;Ya;Tidak;Tidak;Tidak;Ya;Ya;Ya;Sekunder
+Eri;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Ya;Tidak;Sekunder
+Sija;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Ya;Tidak;Sekunder
+Roewatini;Tidak;Ya;Ya;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Sekunder
+Agus Sentot Budiono;Tidak;Ya;Ya;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Sekunder
+Meisyem;Tidak;Ya;Tidak;Ya;Tidak;Tidak;Ya;Tidak;Ya;Ya;Sekunder
+Samona;Ya;Ya;Ya;Ya;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Sekunder
+Ririn Sukmurdanu;Tidak;Tidak;Ya;Tidak;Tidak;Ya;Tidak;Tidak;Ya;Tidak;Sekunder
+Mukaromah;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Tidak;Sekunder
+Ir.Didiek Priono;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Sekunder
+Deddy Ramadhani;Ya;Ya;Tidak;Tidak;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Sekunder
+Satuman;Tidak;Ya;Tidak;Ya;Tidak;Ya;Tidak;Ya;Ya;Ya;Sekunder
+Yusi Indrawati;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Ya;Tidak;Ya;Sekunder
+Nasichin;Tidak;Ya;Ya;Ya;Ya;Tidak;Tidak;Ya;Ya;Ya;Sekunder
+Mulyono;Ya;Ya;Ya;Tidak;Ya;Tidak;Ya;Tidak;Tidak;Ya;Sekunder
+Sutiyono;Ya;Ya;Ya;Ya;Tidak;Ya;Tidak;Ya;Tidak;Ya;Sekunder
+Agus Sulistyowati;Ya;Ya;Tidak;Ya;Tidak;Ya;Tidak;Ya;Tidak;Tidak;Sekunder
+Rasmin;Tidak;Ya;Tidak;Ya;Tidak;Tidak;Ya;Tidak;Tidak;Ya;Sekunder
+Nur Hakim;Tidak;Ya;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Sekunder
+Orhenis;Tidak;Ya;Ya;Ya;Tidak;Ya;Tidak;Tidak;Tidak;Ya;Sekunder
+Asnah Rahayu;Tidak;Ya;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Sekunder
+Misna;Tidak;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Ya;Sekunder
+Sriyatun;Tidak;Ya;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Ya;Sekunder
+R Deni Harianto;Tidak;Ya;Ya;Ya;YA;Tidak;Tidak;Ya;Ya;Ya;Sekunder
+Amah;Tidak;Ya;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Sekunder
+Suwarti;Tidak;Ya;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Ya;Ya;Sekunder
+Suliyah;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Tidak;Sekunder
+Hamimah;Ya;Ya;Ya;Tidak;Tidak;Ya;Tidak;Tidak;Tidak;Ya;Sekunder
+Kumpul;Tidak;Ya;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Sekunder
+Muhammad;Tidak;Ya;Tidak;Tidak;Tidak;Ya;Ya;Tidak;Tidak;Ya;Sekunder
+Sayarah;Tidak;Ya;Tidak;Tidak;Ya;Tidak;Tidak;Tidak;Ya;Ya;Sekunder
+Pono;Tidak;Ya;Ya;Tidak;Tidak;Tidak;Ya;Tidak;Ya;Ya;Sekunder
+Mr.X;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Ya;Sekunder
+Cahya Darana;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Ya;Tidak;Sekunder
+Adenan;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Ya;Sekunder
+Mujito;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Ya;Sekunder
+Rahmah;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Ya;Ya;Sekunder
+Zulmi Herwandi;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Ya;Tidak;Sekunder
+Arlia;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Tidak;Ya;Sekunder
+Basir;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Tidak;Ya;Sekunder
+Imam;Ya;Ya;Tidak;Tidak;Tidak;Ya;Tidak;Ya;Tidak;Ya;Sekunder
+Manisa;Tidak;Ya;Ya;Ya;Ya;Tidak;Tidak;Tidak;Ya;Tidak;Sekunder
+Qoriatul Muqoddas;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Ya;Tidak;Sekunder
+Sukarmi;Tidak;Ya;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Sekunder
+Saiful Anam;Ya;Ya;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Sekunder
+Sawali;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Tidak;Tidak;Sekunder
+Eko Susanti;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Ya;Tidak;Sekunder
+Basuni;Ya;Ya;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Sekunder
+ABD salam;Ya;Ya;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Sekunder
+Simon Daniel Likumahwa;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Ya;Ya;Ya;Sekunder
+Sunarti;Tidak;Ya;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Sekunder
+Kaspul Anwar;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Ya;Ya;Sekunder
+Sumiarsih;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Ya;Ya;Sekunder
+Basuki Raharjo;Ya;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Ya;Ya;Ya;Sekunder
+Kati;Ya;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Ya;Ya;Sekunder
+Soeparman;Tidak;Tidak;Ya;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Ya;Sekunder
+S Kalimah;Tidak;Ya;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Sekunder
+Pokkor;Tidak;Ya;Ya;Ya;Tidak;Tidak;Tidak;Tidak;Tidak;Tidak;Sekunder
+Saimah;Ya;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Ya;Ya;Sekunder
+Mistimah;Tidak;Ya;Tidak;Tidak;Tidak;Tidak;Ya;Tidak;Ya;Ya;Sekunder

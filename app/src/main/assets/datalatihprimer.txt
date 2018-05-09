@@ -1,0 +1,81 @@
+Nama;Lokasi;Karakteristik Nyeri;Skala nyeri;Durasi;Mata dan hidung berair;DiagnosaKedua
+Wasis Agung Prabowo;Unilateral;Berdenyut;Berat;240;Tidak;Migren
+Mujinah;Unilateral;Berdenyut;Berat;300;Tidak;Migren
+Taufik Bahtiar;Unilateral;Berdenyut;Sedang;360;Tidak;Migren
+Yuli Sugiyarto;Unilateral;Berdenyut;Sedang;420;Tidak;Migren
+Indah Rizki Amalia;Unilateral;Berdenyut;Berat;480;Tidak;Migren
+Erna Yustin Wally;Unilateral;Berdenyut;Berat;540;Tidak;Migren
+Tugiati;Unilateral;Berdenyut;Sedang;600;Tidak;Migren
+Zainiyah;Unilateral;Dibor;Berat;660;Tidak;Migren
+Oktafia malango;Unilateral;Dibor;Berat;720;Tidak;Migren
+Hidrotul Mardiyah;Unilateral;Berdenyut;Berat;780;Tidak;Migren
+Taufik Bahtiar;Unilateral;Berdenyut;Berat;840;Tidak;Migren
+Dika Fadilah;Unilateral;Berdenyut;Berat;900;Tidak;Migren
+Moch Fatchul Huda;Unilateral;Berdenyut;Berat;960;Tidak;Migren
+Ngatiah;Unilateral;Tekan;Sedang;1020;Tidak;Migren
+Rini Widayati;Unilateral;Berdenyut;Berat;1080;Tidak;Migren
+Kiki Kristiani;Unilateral;Berdenyut;Sedang;1140;Tidak;Migren
+Ida Julaika;Unilateral;Berdenyut;Sedang;1200;Tidak;Migren
+Imroatu Sholihah;Unilateral;Berdenyut;Sedang;1260;Tidak;Migren
+NI Nyoman Marhaelin;Unilateral;Berdenyut;Berat;1320;Tidak;Migren
+Mudrik;Unilateral;Berdenyut;Sedang;1380;Tidak;Migren
+Dewi Mari;Unilateral;Dibor;Sedang;1440;Tidak;Migren
+Irwan Soleh;Unilateral;Berdenyut;Berat;1500;Tidak;Migren
+Farida;Unilateral;Berdenyut;Berat;1560;Tidak;Migren
+Hasniar Ika Yuniawati;Unilateral;Berdenyut;Berat;1620;Tidak;Migren
+Saini;Unilateral;Berdenyut;Sedang;1680;Tidak;Migren
+Lilik Masluha;Unilateral;Berdenyut;Sedang;1740;Tidak;Migren
+Noer Endah;Unilateral;Berdenyut;Sedang;1800;Tidak;Migren
+Eni Apriani;Unilateral;Berdenyut;Berat;1860;Tidak;Migren
+Susilowati;Unilateral;Berdenyut;Berat;1920;Tidak;Migren
+Agus Dwi Kurniawan;Unilateral;Dibor;Berat;15;Ya;Klaster
+moch Soleh Nurarifin;Unilateral;Dibor;Berat;20;Ya;Klaster
+Nikmatus Zuhriah;Unilateral;Dibor;Berat;25;Ya;Klaster
+Siti Fatimah;Unilateral;Dibor;Berat;30;Ya;Klaster
+Erna Yustin Wally;Unilateral;Berdenyut;Berat;35;Ya;Klaster
+Indri Prwanti;Unilateral;Dibor;Berat;40;Ya;Klaster
+Siti Istiqomah;Unilateral;Dibor;Berat;45;Ya;Klaster
+Supriyanto;Unilateral;Tekan;Berat;60;Ya;Klaster
+BAGUS AFANDY PUTRA;Bilateral;Dibor;Berat;120;Tidak;Klaster
+MOH KHANFANI;Unilateral;Dibor;Ringan;180;Tidak;Klaster
+MOHAMMAD HASAN HANAFI;Unilateral;Dibor;Berat;150;Tidak;Klaster
+Meisi;Bilateral;Tekan;Sedang;30;Tidak;TTH
+Fatilah;Bilateral;Tekan;Sedang;120;Tidak;TTH
+Vivi Dwi Lestari;Bilateral;Tekan;Berat;180;Tidak;TTH
+Bayu Setiawan;Bilateral;Tekan;Sedang;240;Tidak;TTH
+Yuliatin;Bilateral;Tekan;Berat;1980;Tidak;TTH
+Viriyal;Bilateral;Tekan;Sedang;2040;Tidak;TTH
+Muvi Firdaus;Bilateral;Tekan;Sedang;2100;Tidak;TTH
+Krisfa Larum;Bilateral;Tekan;Sedang;2160;Tidak;TTH
+Etji Fitriana;Bilateral;Tekan;Sedang;2220;Tidak;TTH
+Uda Widjaksono;Bilateral;Tekan;Berat;2280;Tidak;TTH
+Aditya Kartika;Bilateral;Tekan;Sedang;2340;Tidak;TTH
+Siti Hotijah;Bilateral;Tekan;Sedang;2400;Tidak;TTH
+Tris Alvianda;Bilateral;Berdenyut;Sedang;2460;Tidak;TTH
+Paramita;Bilateral;Tekan;Berat;2520;Tidak;TTH
+Aminah;Bilateral;Tekan;Berat;2580;Tidak;TTH
+Nurul Rini Intan Fandini;Bilateral;Tekan;Sedang;2640;Tidak;TTH
+Puji Rahayu;Bilateral;Tekan;Berat;2500;Tidak;TTH
+Yahya;Bilateral;Tekan;Sedang;2560;Tidak;TTH
+Rizal Efendi;Unilateral;Tekan;Sedang;2620;Tidak;TTH
+Suripto;Bilateral;Tekan;Sedang;2680;Tidak;TTH
+Putri Tulistiowati;Bilateral;Tekan;Berat;2740;Tidak;TTH
+Darmi;Bilateral;Berdenyut;Sedang;2800;Tidak;TTH
+Linda Atika Dewi;Bilateral;Tekan;Sedang;2880;Tidak;TTH
+Semuel Pampang Langi;Bilateral;Berdenyut;Sedang;4320;Tidak;TTH
+Wawan;Bilateral;Tekan;Ringan;5760;Tidak;TTH
+Lukmawati;Bilateral;Tekan;Sedang;7200;Tidak;TTH
+Adinda Puteri;Bilateral;Tekan;Sedang;8640;Tidak;TTH
+Fadia Laila;Bilateral;Tekan;Sedang;10080;Tidak;TTH
+RR Sri Wahyuningsih;Bilateral;Tekan;Berat;10080;Tidak;TTH
+Iin Nur Hindriyawati;Bilateral;Tekan;Berat;8640;Tidak;TTH
+Amanah;Bilateral;Tekan;Sedang;7200;Tidak;TTH
+Bima;Bilateral;Tekan;Berat;5760;Tidak;TTH
+Mahani Fadlul;Bilateral;Tekan;Sedang;4320;Tidak;TTH
+Sri Wahyuningsih;Bilateral;Tekan;Sedang;2880;Tidak;TTH
+Husain;Bilateral;Tekan;Sedang;1440;Tidak;TTH
+Sularih;Bilateral;Tekan;Sedang;1440;Tidak;TTH
+Seneti;Bilateral;Tekan;Sedang;60;Tidak;TTH
+Moch Jaya Wijaya;Bilateral;Tekan;Sedang;30;Tidak;TTH
+Akhmad Rifanie;Bilateral;Berdenyut;Sedang;120;Tidak;TTH
+Nadia Cikyta;Bilateral;Tekan;Berat;120;Tidak;TTH
